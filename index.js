@@ -12,7 +12,7 @@ exports.decorateConfig = (config) => {
           opacity: 0.8;
         }
         .bell.hidden {
-          display: none;
+          opacity: 0;
         }
       `
   });
