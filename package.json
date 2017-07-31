@@ -1,0 +1,20 @@
+{
+  "name": "hyper-visual-bell",
+  "version": "0.0.1",
+  "description": "Hyper visual bell",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "plugin",
+    "bell",
+    "visual bell"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreccosta/hyper-visual-bell"
+  },
+  "author": "André Costa",
+  "license": "MIT",
+  "homepage": "https://github.com/andreccosta/hyper-visual-bell"
+}
